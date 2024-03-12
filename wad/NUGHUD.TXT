@@ -91,30 +91,30 @@ nughud_powers_align     0
 
 ; ------------------------------------------------------------------------------
 ; Health icon
-nughud_healthicon_x     20
-nughud_healthicon_y     186
+nughud_healthicon_x     68
+nughud_healthicon_y     188
 nughud_healthicon_wide -1
 nughud_healthicon_align 0
 nughud_healthicon_vlign 0
 
 ; Health count
-nughud_health_x         80
-nughud_health_y         178
+nughud_health_x         48
+nughud_health_y         180
 nughud_health_wide     -1
 nughud_health_align     1
 
 
 ; ------------------------------------------------------------------------------
 ; Armor icon
-nughud_armoricon_x      20
-nughud_armoricon_y      165
+nughud_armoricon_x      68
+nughud_armoricon_y      167
 nughud_armoricon_wide  -1
 nughud_armoricon_align  0
 nughud_armoricon_vlign  0
 
 ; Armor count
-nughud_armor_x          80
-nughud_armor_y          158
+nughud_armor_x          48
+nughud_armor_y          160
 nughud_armor_wide      -1
 nughud_armor_align      1
 
