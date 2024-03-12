@@ -137,18 +137,18 @@ nughud_ammo_align       1
 
 ; ------------------------------------------------------------------------------
 ; Blue Key
-nughud_key0_x           17
-nughud_key0_y           146
+nughud_key0_x           86
+nughud_key0_y           185
 nughud_key0_wide       -1
 
 ; Yellow Key
-nughud_key1_x           17
-nughud_key1_y           137
+nughud_key1_x           95
+nughud_key1_y           185
 nughud_key1_wide       -1
 
 ; Red Key
-nughud_key2_x           17
-nughud_key2_y           128
+nughud_key2_x           104
+nughud_key2_y           185
 nughud_key2_wide       -1
 
 
