@@ -122,15 +122,15 @@ nughud_armor_align      1
 ; ------------------------------------------------------------------------------
 ; Ammo icon
 nughud_ammoicon_x       306
-nughud_ammoicon_y       186
+nughud_ammoicon_y       188
 nughud_ammoicon_wide    1
 nughud_ammoicon_align   0
 nughud_ammoicon_vlign   0
 nughud_ammoicon_big     0
 
 ; Ammo count
-nughud_ammo_x           293
-nughud_ammo_y           178
+nughud_ammo_x           294
+nughud_ammo_y           180
 nughud_ammo_wide        1
 nughud_ammo_align       1
 
