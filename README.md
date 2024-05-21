@@ -15,6 +15,7 @@ a zdoom-inspired fullscreen hud, powered by Nugget Doom
 
 ## Limitations:
 - this is a HUD intended for singleplayer use
+- for optimal results, use the "dark overlay" automap mode
 
 
 ## Downloads:
